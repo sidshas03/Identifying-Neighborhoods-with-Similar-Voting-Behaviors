@@ -4,5 +4,3 @@ Analyzed neighborhood-level voting patterns using demographic data (income, race
 <img width="1768" height="593" alt="image" src="https://github.com/user-attachments/assets/433b89d6-0d40-468c-bb0f-b20230f715e0" />
 
 <img width="1880" height="1489" alt="image" src="https://github.com/user-attachments/assets/18eb84f9-0ff9-4fbb-afcd-eb027526de68" />
-
-<img width="1880" height="1489" alt="image" src="https://github.com/user-attachments/assets/e18f72af-acd5-47c2-aa06-09648ddb3f81" />

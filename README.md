@@ -21,11 +21,6 @@ CatBoost and XGBoost
 Seaborn and Matplotlib for visualization
 GeoPandas and Folium for spatial mapping
 
-📌 Key Findings
-Republican-leaning neighborhoods tend to have higher proportions of senior or adult populations in certain areas
-Young populations are more densely clustered in Democrat-heavy zones, especially in low and medium-income areas
-Visual patterns suggest a strong link between partisanship and income distribution
-
 
 
 <img width="1768" height="593" alt="image" src="https://github.com/user-attachments/assets/433b89d6-0d40-468c-bb0f-b20230f715e0" />
